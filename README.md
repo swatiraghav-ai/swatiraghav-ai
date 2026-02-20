@@ -21,10 +21,6 @@
 - 🧠 Currently Exploring: Machine Learning  
 
 ---
-
-## 📊 GitHub Stats
-![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=swatiraghav-ai&show_icons=true&theme=tokyonight)
-
 ## 🌐 Connect With Me
 - 📧 Email: (swatiraghav771@gmail.com)
 
